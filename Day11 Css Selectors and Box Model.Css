@@ -1,0 +1,78 @@
+/* 1.Element Selector */
+/* h2{
+    color:yellow;
+    background-color:black;
+}*/
+
+/* p{
+    color:yellow;
+    background-color:black;
+}*/
+
+/* 2.element Selector List*/
+/*h2,p{
+    color:yellow;
+    background-color:black;
+}*/
+
+/*3.universal Selector*/
+/* *{
+    color:yellow;
+    border:2px solid(dotted,dashed) red;
+    background-color:black;
+}*/
+
+/*4.ID Selector*/
+/* #h2count3{
+    color:yellow;
+    border:2px solid(dotted,dashed) red;
+    background-color:black;
+}*/
+
+/*5.Class Selector*/
+.h2classSelector{
+         color:pink;
+         background:black;
+         border:2px solid blue;
+         width:100px;
+         height:100px;
+         border-radius:80%;
+}
+     
+
+/* Units in css */
+/* px,%,vh,vw,rem,em */
+
+/* 6.Descendant Selector */
+/*li a{
+    color:white;
+    background:black;
+}*/
+b i{
+    color:pink;
+    background-color:yellow;
+}
+
+/* 7.Direct child*/
+/* Parent > direct child*/
+u > i{
+    color:pink;
+    background-color:yellow;
+}
+
+
+h5{
+    color:yellow;
+    background-color:darkmagenta;
+}
+
+h6{
+    border:2px solid black;
+    background-color:black;
+    color:white;
+    /*padding:20px;*/
+    padding-left:50%;
+    padding-top:25px;
+    padding-bottom:30px;
+    margin:30px;
+}
